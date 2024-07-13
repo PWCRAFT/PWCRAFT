@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PWCRAFT
 - 👀 I’m interested in ALL THINGS TECH AND INNOVATION
-- 🌱 I’m currently learning SEC,WORD PRESS WEBDEV AND FRONT END DEVELOPMEMT
+- 🌱 I’m currently learning SE,WORD PRESS WEB DEV/SEO AND FRONT END DEVELOPMEMT
 - 💞️ I’m looking to collaborate on ALL THE ABOVE
 - 📫 How to reach me EMAIL
 - 😄 Pronouns:She
